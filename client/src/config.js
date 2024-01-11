@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://file-flow-server-production.up.railway.app'
